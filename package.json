@@ -1,0 +1,22 @@
+{
+  "name": "01.three-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@splinetool/loader": "^0.9.78",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.10.4",
+    "three": "^0.142.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
